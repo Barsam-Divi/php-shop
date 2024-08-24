@@ -1,0 +1,1 @@
+<a href="?c=user&a=logout">خروج</a>
